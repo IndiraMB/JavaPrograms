@@ -1,0 +1,9 @@
+Check whether the program accepts only size of 20. 
+Check whether the program accepts only numbers. If string are entered as input, exception should be handled. 
+Check whether sum of char, special character, number count matches the total size.
+Check whether sum of char, special character, number count is even numbers and only one can be odd. 
+Check whether 2 odd numbers should return not a valid input message. 
+Check whether sum of char, special character, number count not matching the total size returns invalid input message. 
+Check whether the correct ASCII values is configured in the program. 
+Check whether zero as input is handled and program works fine. 
+Check whether zero as input for more than one count, still picks the remaining ones and form the palindrome. 
